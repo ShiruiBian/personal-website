@@ -8,7 +8,7 @@
 - 2026.1.9–1.11，广东广州-中山大学，计算系统生物学前沿学术研讨会，Invited talk
 - 2026.4.10-4.12，山西太原，第二十二届网络科学与工程论坛，大会报告，Plenary Talk
 
-![占位图片](images\academic\zhanwei.png)
+![占位图片](/bieshirui-personal-website/images/academic/zhanwei.png)
 
 ### 2025
 
