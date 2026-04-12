@@ -3,7 +3,7 @@
     <!-- 上方区域：照片 + 简短介绍 -->
     <div class="profile-section">
       <div class="profile-left">
-        <img src="/images/selfie-1.jpg" alt="Profile Photo" class="profile-photo" />
+        <img :src="baseUrl + 'images/selfie-1.jpg'" alt="Profile Photo" class="profile-photo" />
       </div>
       <div class="profile-right">
         <div class="profile-intro" v-html="introHtml"></div>
@@ -36,6 +36,8 @@ import profilesCh from '../content/profiles-ch.md?raw'
 import profilesEn from '../content/profiles-en.md?raw'
 import detailsCh from '../content/home-details-ch.md?raw'
 import detailsEn from '../content/home-details-en.md?raw'
+
+const baseUrl = import.meta.env.BASE_URL
 
 const route = useRoute()
 const locale = computed(() => route.query.lang || 'zh')

@@ -2,7 +2,7 @@
   <div class="biography">
     <div class="biography-container">
       <div class="photo-section">
-        <img src="/images/selfie-2.jpg" alt="Biography Photo" class="biography-photo" />
+        <img :src="baseUrl + 'images/selfie-2.jpg'" alt="Biography Photo" class="biography-photo" />
       </div>
       <div class="content-section">
         <div class="biography-content" v-html="biographyHtml"></div>
@@ -19,6 +19,8 @@ import { marked } from 'marked'
 // 直接导入 Markdown 文件内容
 import biographyCh from '../content/biography-ch.md?raw'
 import biographyEn from '../content/biography-en.md?raw'
+
+const baseUrl = import.meta.env.BASE_URL
 
 const route = useRoute()
 const locale = computed(() => route.query.lang || 'zh')

@@ -12,7 +12,6 @@ export default defineConfig({
   },
   define: {
     global: 'globalThis',
-    Buffer: ['buffer', 'Buffer'],
   },
   optimizeDeps: {
     include: ['gray-matter', 'buffer']
