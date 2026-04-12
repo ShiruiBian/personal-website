@@ -29,7 +29,6 @@
 import { computed } from 'vue'
 import { useRoute } from 'vue-router'
 import { marked } from 'marked'
-import matter from 'gray-matter'
 
 // 导入 Markdown 文件内容
 import profilesCh from '../content/profiles-ch.md?raw'
@@ -42,13 +41,22 @@ const baseUrl = import.meta.env.BASE_URL
 const route = useRoute()
 const locale = computed(() => route.query.lang || 'zh')
 
+function parseFrontMatter(raw) {
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/)
+  if (!match) return { data: {}, content: raw }
+  const data = {}
+  match[1].split('\n').forEach(line => {
+    const idx = line.indexOf(':')
+    if (idx > -1) {
+      data[line.slice(0, idx).trim()] = line.slice(idx + 1).trim()
+    }
+  })
+  return { data, content: match[2].trim() }
+}
+
 const profileData = computed(() => {
   const content = locale.value === 'zh' ? profilesCh : profilesEn
-  const parsed = matter(content)
-  return {
-    data: parsed.data,
-    content: parsed.content
-  }
+  return parseFrontMatter(content)
 })
 
 const email = computed(() => profileData.value.data.email || 'xxx@m.fudan.edu.cn')

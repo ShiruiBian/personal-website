@@ -14,6 +14,6 @@ export default defineConfig({
     global: 'globalThis',
   },
   optimizeDeps: {
-    include: ['gray-matter', 'buffer']
+    include: ['marked']
   }
 })
