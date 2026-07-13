@@ -4,66 +4,127 @@
 
 ### 2026
 
-- 2026.1.2–1.7，上海-上海国际会议中心，第十届世界华人数学家大会，Session talk
-- 2026.1.9–1.11，广东广州-中山大学，计算系统生物学前沿学术研讨会，Invited talk
-- 2026.4.10-4.12，山西太原，第二十二届网络科学与工程论坛，大会报告，Plenary Talk
+- 2026.4.10-4.12，山西太原-太原理工大学，第二十二届网络科学与工程论坛，大会报告，Plenary Talk
 
-![占位图片](/bieshirui-personal-website/images/academic/zhanwei.png)
+  ![NSEF2026](/bieshirui-personal-website/images/academic/conference/NSEF2026_1.jpg)
+
+- 2026.1.9–1.11，广东广州-中山大学，计算系统生物学前沿学术研讨会，Invited talk
+
+- 2026.1.2–1.7，上海-上海国际会议中心，第十届世界华人数学家大会，Session talk
 
 ### 2025
 
-- 2025.4.24–4.28，湖北武汉-华中农业大学，2025中国工业与应用数学学会青年论坛，Invited talk（作为青年托举博士生计划入选者）
-- 2025.5.16–5.18，云南昆明-云南海埂会堂，第九届中国系统科学大会，Session talk
-- 2025.5.22–5.24，上海-上海市科协，青年人才托举工程博士生专项计划研修班
-- 2025.7.3–7.6，北京-北京科技大学，第十一届全国非线性生物动力系统学术会议
-- 2025.8.26–8.28，贵州贵阳-贵阳国际会议展览中心，2025中国国际大数据产业博览会，陪同复旦大学林伟教授参会并辅助报告
-- 2025.9.20，上海-华东师范大学，上海市工业与应用数学学会2025学术年会，Invited talk
-- 2025.10.24–10.28，湖南长沙-北辰国际会议中心，中国工业与应用数学学会第二十三届年会兼第八届学生论坛，Poster（获优秀墙报奖）
 - 2025.10.30，北京-北京大学，应用数学青年讨论班，Invited talk
+
+  ![AMYS2025](/bieshirui-personal-website/images/academic/conference/AMYS2025_1.jpg)
+
+- 2025.10.24–10.28，湖南长沙-北辰国际会议中心，中国工业与应用数学学会第二十三届年会兼第九届学生论坛，Poster（获优秀墙报奖）
+
+  ![CSIAM2025](/bieshirui-personal-website/images/academic/conference/CSIAM2025_1.jpg)
+
+- 2025.9.20，上海-华东师范大学，上海市工业与应用数学学会2025学术年会，Invited talk
+
+  ![SSIAM2025](/bieshirui-personal-website/images/academic/conference/SSIAM2025_1.jpg)
+
+- 2025.8.26–8.28，贵州贵阳-贵阳国际会议展览中心，2025中国国际大数据产业博览会，陪同复旦大学林伟教授参会并辅助报告
+
+  ![BigData2025](/bieshirui-personal-website/images/academic/conference/BigData2025_1.jpg)
+
+- 2025.7.3–7.6，北京-北京科技大学，第十一届全国非线性生物动力系统学术会议
+
+- 2025.5.22–5.24，上海-上海市科协，青年人才托举工程博士生专项计划研修班
+
+  ![CAST2025](/bieshirui-personal-website/images/academic/conference/CAST2025_1.jpg)
+
+- 2025.5.16–5.18，云南昆明-云南海埂会堂，第九届中国系统科学大会，Session talk
+
+  ![CSSC2025](/bieshirui-personal-website/images/academic/conference/CSSC2025_1.jpg)
+
+- 2025.4.24–4.28，湖北武汉-华中农业大学，2025中国工业与应用数学学会青年论坛，Invited talk（作为青年托举博士生计划入选者）
+
+  ![CSIAMYF2025](/bieshirui-personal-website/images/academic/conference/CSIAMYF2025_1.jpg)
 
 ### 2024
 
-- 2024.3.7，上海-复旦大学，Applied Math PhD Seminar第七十三期，Session talk
-- 2024.3.23–3.24，浙江杭州-浙江大学杭州国际科创中心，第一届国家自然科学基金委青年学生基础研究项目(博士研究生)评审会议，Session talk
-- 2024.4.26–4.28，浙江义乌-浙江大学"一带一路"国际医学院，2024年昼夜节律与疾病研讨会
-- 2024.5.17–5.19，安徽芜湖-安徽工程大学，第八届中国系统科学大会
-- 2024.6.23–6.27，陕西西安-西安交通大学，第七届生物数学国际会议
-- 2024.7.22–7.28，江苏徐州-中国矿业大学徐州校区，第十届上海国际非线性科学与应用研讨会，接待陪同欧洲科学院院士Celso Grebogi教授并辅助报告
-- 2024.9.22，上海-同济大学，上海市工业与应用数学学会2024学术年会
-- 2024.10.24–10.28，江苏南京-扬子江会议中心，中国工业与应用数学学会第二十二届年会兼第八届学生论坛，Poster
 - 2024.11.30，上海-同济大学，同济大学基础学科本科生学术年会，Invited talk
-- 2024.12.24–12.27，澳门-澳门科技大学，2024年国际虚拟现实与可视化会议（ICVRV 2024）
+
+- 2024.10.24–10.28，江苏南京-扬子江会议中心，中国工业与应用数学学会第二十二届年会兼第八届学生论坛，Poster
+
+  ![CSIAM2024](/bieshirui-personal-website/images/academic/conference/CSIAM2024_1.jpg)
+
+- 2024.9.22，上海-同济大学，上海市工业与应用数学学会2024学术年会
+
+- 2024.7.22-7.28，江苏徐州-中国矿业大学徐州校区，第十届上海国际非线性科学与应用研讨会，接待陪同欧洲科学院院士Celso Grebogi教授并辅助报告
+
+  ![SINSA2024](/bieshirui-personal-website/images/academic/conference/SINSA2024_1.jpg)
+
+- 2024.6.23-6.27，陕西西安-西安交通大学，第七届生物数学国际会议，Poster
+
+  ![ICB2024](/bieshirui-personal-website/images/academic/conference/ICB2024_1.jpg)
+
+- 2024.5.17–5.19，安徽芜湖-安徽工程大学，第八届中国系统科学大会
+
+- 2024.4.26–4.28，浙江义乌-浙江大学"一带一路"国际医学院，2024年昼夜节律与疾病研讨会
+
+- 2024.3.23–3.24，浙江杭州-浙江大学杭州国际科创中心，第一届国家自然科学基金委青年学生基础研究项目(博士研究生)评审会议，Session talk
+
+- 2024.3.7，上海-复旦大学，Applied Math PhD Seminar第七十三期，Session talk
 
 ### 2023
 
-- 2023.11.18–11.19，上海-复旦大学，2023年"面向未来的复杂系统科学——交叉与融合"学者研讨会，会议主持、参与组织工作（18日）
 - 2023.12.9–12.10，陕西西安-西安交通大学，教育部第三届"提问与猜想"线下交流会，Session talk，Poster
+
+  ![QAC2023_1](/bieshirui-personal-website/images/academic/conference/QAC2023_1.jpg)
+  ![QAC2023_2](/bieshirui-personal-website/images/academic/conference/QAC2023_2.jpg)
+
+- 2023.11.18–11.19，上海-复旦大学，2023年"面向未来的复杂系统科学——交叉与融合"学者研讨会，会议主持、参与组织工作
 
 ## 学术访问
 
-- **中山大学、华南理工大学、广州大学、暨南大学 (2025.11.5–11.8)**
+- **西安交通大学、西安电子科技大学、长安大学** (2026.4.20–4.24)
+  - 地点：陕西西安
+  - 访问教师：肖燕妮、孟德宇、李智、张太雷
 
-  - **地点：广东广州**
-  - **合作导师：陈培、刘锐、吴瑞雯、庾建设、郑波、周天寿**
+  ![XA2026_1](/bieshirui-personal-website/images/academic/visit/XA2026_1.jpg)
+  ![XA2026_2](/bieshirui-personal-website/images/academic/visit/XA2026_2.jpg)
+  ![XA2026_3](/bieshirui-personal-website/images/academic/visit/XA2026_3.jpg)
+  ![XA2026_4](/bieshirui-personal-website/images/academic/visit/XA2026_4.jpg)
+
+- **中山大学、华南理工大学** (2026.1.8–1.10)
+  - 地点：广东广州
+  - 访问教师：周天寿、刘锐、陈培
+
+  ![GZ2026_1](/bieshirui-personal-website/images/academic/visit/GZ2026_1.jpg)
+
+- **广州大学、暨南大学** (2025.11.5–11.8)
+  - 地点：广东广州
+  - 访问教师：庾建设、郑波、吴瑞雯
+
+  ![GZ2025_1](/bieshirui-personal-website/images/academic/visit/GZ2025_1.jpg)
 
 - **国防科技大学** (2025.10.22–10.23)
-
   - 地点：湖南长沙
-  - 合作导师：段晓君
+  - 访问教师：段晓君
+
+  ![CS2025_1](/bieshirui-personal-website/images/academic/visit/CS2025_1.jpg)
 
 - **武汉大学、华中科技大学** (2025.2.17–2.22)
-
   - 地点：湖北武汉
-  - 合作导师：刘斌、邹秀芬
+  - 访问教师：刘斌、邹秀芬
+
+  ![WH2025_1](/bieshirui-personal-website/images/academic/visit/WH2025_1.jpg)
+  ![WH2025_2](/bieshirui-personal-website/images/academic/visit/WH2025_2.jpg)
 
 - **北京大学** (2024.8.25–8.30)
-
   - 地点：北京
-  - 合作导师：李阿明、李铁军、张磊、周沛劼
+  - 访问教师：张磊、李铁军、周沛劼、李阿明
 
+  ![BJ2024_1](/bieshirui-personal-website/images/academic/visit/BJ2024_1.jpg)
+  ![BJ2024_2](/bieshirui-personal-website/images/academic/visit/BJ2024_2.jpg)
+  ![BJ2024_3](/bieshirui-personal-website/images/academic/visit/BJ2024_3.jpg)
 
 - **西南大学** (2023.8.22–8.23)
-
   - 地点：重庆
-  - 合作导师：王开发
+  - 访问教师：王开发
 
+  ![CQ2023_1](/bieshirui-personal-website/images/academic/visit/CQ2023_1.jpg)

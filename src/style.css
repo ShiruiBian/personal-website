@@ -278,6 +278,17 @@ body {
   color: var(--text-color);
 }
 
+/* Academic page images */
+.academic-content img {
+  display: block;
+  max-width: 260px;
+  width: 100%;
+  height: auto;
+  margin: 10px auto;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+}
+
 /* Grants Page */
 .grants-content ul {
   list-style-type: disc;

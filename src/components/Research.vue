@@ -16,7 +16,7 @@ import researchCh from '../content/research-ch.md?raw'
 import researchEn from '../content/research-en.md?raw'
 
 const route = useRoute()
-const locale = computed(() => route.query.lang || 'zh')
+const locale = computed(() => route.query.lang || 'en')
 
 const researchHtml = computed(() => {
   const content = locale.value === 'zh' ? researchCh : researchEn

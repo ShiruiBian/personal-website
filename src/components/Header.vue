@@ -40,7 +40,7 @@ import { useRoute, useRouter } from 'vue-router'
 const route = useRoute()
 const router = useRouter()
 
-const locale = computed(() => route.query.lang || 'zh')
+const locale = computed(() => route.query.lang || 'en')
 
 const menuItems = [
   { path: '/', labelZh: '主页', labelEn: 'Home' },

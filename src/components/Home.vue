@@ -39,7 +39,7 @@ import detailsEn from '../content/home-details-en.md?raw'
 const baseUrl = import.meta.env.BASE_URL
 
 const route = useRoute()
-const locale = computed(() => route.query.lang || 'zh')
+const locale = computed(() => route.query.lang || 'en')
 
 function parseFrontMatter(raw) {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/)

@@ -23,7 +23,7 @@ import biographyEn from '../content/biography-en.md?raw'
 const baseUrl = import.meta.env.BASE_URL
 
 const route = useRoute()
-const locale = computed(() => route.query.lang || 'zh')
+const locale = computed(() => route.query.lang || 'en')
 
 const biographyHtml = computed(() => {
   const content = locale.value === 'zh' ? biographyCh : biographyEn

@@ -16,7 +16,7 @@ import academicCh from '../content/academic-ch.md?raw'
 import academicEn from '../content/academic-en.md?raw'
 
 const route = useRoute()
-const locale = computed(() => route.query.lang || 'zh')
+const locale = computed(() => route.query.lang || 'en')
 
 const academicHtml = computed(() => {
   const content = locale.value === 'zh' ? academicCh : academicEn
